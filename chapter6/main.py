@@ -51,7 +51,7 @@ def get_db():
     tags=["analytics"],
 )
 async def root():
-    return {"message": "API health check successful"}
+    return {"message": "API health check successful (cloud render)"}
 
 
 @app.get(
