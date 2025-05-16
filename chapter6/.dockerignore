@@ -1,5 +1,4 @@
-# This is the .dockerignore for Chapter 6
-
+# This is the .dockerignore file for Chapter 6
 .gitignore
 
 README.md
